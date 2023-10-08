@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry print
+ * main - Entry point
  *
  * Description: print 0,1, -9
  *
