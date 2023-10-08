@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: print numbers of base16 in lower case
+ * Description: print numbers of base16 in lowercase
  *
- * Reture: Always 0 (success
+ * Return: Always 0 (Success)
 */
 
 int main(void)
