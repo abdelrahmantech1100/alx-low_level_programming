@@ -5,17 +5,17 @@
 	*
 	* @a: function parameter declared
 	*
-	* Return: 0
+	* Return: Always 0.
 */
 void print_chessboard(char (*a)[8])
 {
 	int c;
-	int b;
+	int v;
 
 	for (c = 0; c < 8; c++)
 	{
-	for (b = 0; b < 8; b++)
-	_putchar(c[c][b]);
+	for (v = 0; v < 8; v++)
+	_putchar(a[c][v]);
 	_putchar('\n');
-	}
-}
+		}
+		}
